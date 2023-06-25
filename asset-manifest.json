@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/getfly_internship/static/css/main.6ebd9dad.css",
+    "main.js": "/getfly_internship/static/js/main.89c15cbf.js",
+    "static/js/787.f055211e.chunk.js": "/getfly_internship/static/js/787.f055211e.chunk.js",
+    "static/media/header-logo.png": "/getfly_internship/static/media/header-logo.6c9f02864bd40c640278.png",
+    "index.html": "/getfly_internship/index.html",
+    "main.6ebd9dad.css.map": "/getfly_internship/static/css/main.6ebd9dad.css.map",
+    "main.89c15cbf.js.map": "/getfly_internship/static/js/main.89c15cbf.js.map",
+    "787.f055211e.chunk.js.map": "/getfly_internship/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ebd9dad.css",
+    "static/js/main.89c15cbf.js"
+  ]
+}
